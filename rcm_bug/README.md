@@ -1,4 +1,4 @@
-###1. Preprocess the dataset
+1. Preprocess the dataset
 
 #Two files: my_xml.py & preprocess.py
 
